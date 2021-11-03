@@ -1,0 +1,23 @@
+body{
+  background-color: floralwhite;
+  text-align: center;
+
+}
+
+form{
+    background-color: lightseagreen;
+    width: 400px;
+    height: 300px;
+    opacity: 0.7;
+    border-radius: 50px;
+    color: black;
+    margin-left: 600px;
+    margin-top: 200px ;
+}
+
+#submit{
+    background-color: darkturquoise;
+    border: 2px solid black;
+    color: blanchedalmond;
+
+}
